@@ -1,0 +1,13 @@
+interface:
+  display_name: Agarwood Prospecting
+  short_description: Find and qualify overseas agarwood, incense and aromatherapy
+    B2B prospects from public sources
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
